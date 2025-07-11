@@ -1,2 +1,2 @@
-# myur-chandra
+# mayur-chandra
 Website
